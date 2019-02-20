@@ -49,10 +49,19 @@
 	},
 	"code": {
 		"prefix": "mdc",
-		"description": "code",
+		"description": "code block",
 		"body": [
 			"```$1",
 			"$2",
+			"```"
+		]
+	},
+	"pycode": {
+		"prefix": "pyc",
+		"description": "Python code block",
+		"body": [
+			"```python",
+			"$1",
 			"```"
 		]
 	}
