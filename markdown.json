@@ -82,6 +82,23 @@
 			"```"
 		]
     },
+    "sprint": {
+		"prefix": "mds",
+		"description": "sprint outline",
+		"body": [
+			"# RN",
+			"",
+            "🏔 $1",
+            "",
+            "_za_",
+            "",
+            "* ",
+            "",
+            "---",
+            "",
+            "$2"
+		]
+    },
     "note": {
 		"prefix": "mdn",
 		"description": "note outline",
