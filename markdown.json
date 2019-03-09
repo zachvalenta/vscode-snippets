@@ -74,12 +74,30 @@
 		]
 	},
 	"pycode": {
-		"prefix": "pyc",
+		"prefix": "pc",
 		"description": "Python code block",
 		"body": [
 			"```python",
 			"$1",
 			"```"
+		]
+    },
+    "mianshi": {
+		"prefix": "mdms",
+		"description": "outline for job app",
+		"body": [
+			"# todo",
+			"",
+            "* $1",
+            "",
+            "# company",
+            "",
+            "* ",
+            "",
+            "# role",
+            "",
+            "* ",
+            ""
 		]
     },
     "sprint": {
