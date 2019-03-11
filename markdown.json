@@ -36,7 +36,7 @@
 			"- [ ] _viz_: ",
 			"- [ ] _religion_: ",
 			"- [ ] _bed_: ",
-			" "
+			""
 		]
 	},
 	"day1": {
@@ -122,8 +122,6 @@
 		"description": "note outline",
 		"body": [
 			"# TODO",
-			"",
-			"",
 			"",
             "## 参考",
             "",
