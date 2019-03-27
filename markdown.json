@@ -18,24 +18,6 @@
 			""
 		]
 	},
-	"day1": {
-		"prefix": "mdd1",
-		"description": "first part of day",
-		"body": [
-			"⏰ `training.md` 'biomechanics'",
-			"",
-			"❌ _sprint goal_: ",
-			"",
-			"❌ __warm__",
-			" ",
-			"- [ ] _diet_: ",
-			"- [ ] `shui`: ",
-			"- [ ] `lianjie.md`: ",
-			"- [ ] _meditate_: ",
-			"- [ ] _training_: ",
-			" "
-		]
-    },
 	"checkbox": {
 		"prefix": "mch",
 		"description": "checkbox",
