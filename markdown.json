@@ -122,5 +122,31 @@
             "$1",
 			""
 		]
+    },
+    "track": {
+		"prefix": "mdt",
+		"description": "tracking outline",
+		"body": [
+			"# JAY",
+			"",
+            "> comments",
+            "",
+			"* _lianjie_: ",
+			"* _meditate_: ",
+			"* _training_: ",
+			"",
+            "# SW",
+            "",
+			"> comments",
+            "",
+            "* 0 commits in 0 repos",
+            "",
+            "# PASSIONS",
+            "",
+			"* _dance_: ",
+			"* _music_: ",
+			"* _viz_: ",
+			""
+		]
 	}
 }
