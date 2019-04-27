@@ -79,18 +79,11 @@
 		"prefix": "mds",
 		"description": "sprint outline",
 		"body": [
-			"# RN",
+			"# 🐛 HIGHLIGHTS",
 			"",
-            "🏔 $1",
-            "",
-            "_za_",
-            "",
             "* ",
             "",
-            "---",
-            "",
-            "$2",
-            ""
+            "$1"
 		]
     },
     "note": {
