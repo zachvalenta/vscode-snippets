@@ -18,6 +18,10 @@
 		"body": [
 			"# $1",
 			"",
+			"* chess: ",
+			"* fiction: ",
+			"* Vim: ",
+			"",
 			"- [ ] `shui`: ",
 			"- [ ] `lianjie.md`: ",
 			"- [ ] _meditate_: ",
