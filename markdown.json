@@ -25,11 +25,10 @@
 			"- [ ] `shui`: ",
 			"- [ ] `lianjie.md`: ",
 			"- [ ] `hiring.md`: ",
-			"- [ ] _training_: ",
+			"- [ ] `training.md`: ",
 			"",
 			"* `assets-digital.md`: ",
 			"* chess: ",
-			"* fiction: ",
 			"* Vim: ",
 			""
 		]
@@ -99,7 +98,14 @@
 		"body": [
 			"# 🐛 HIGHLIGHTS",
 			"",
-            "* ",
+			"- [ ] _meditate_: ",
+			"- [ ] _dance_: ",
+			"- [ ] _music_: ",
+			"- [ ] _viz_: ",
+			"- [ ] `shui`: ",
+			"- [ ] `lianjie.md`: ",
+			"- [ ] `hiring.md`: ",
+			"- [ ] `training.md`: ",
             "",
             "$1"
 		]
