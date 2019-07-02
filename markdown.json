@@ -98,14 +98,14 @@
 		"body": [
 			"# 🐛 highlights",
 			"",
-			"- [ ] _meditate_: ",
-			"- [ ] _dance_: ",
-			"- [ ] _music_: ",
-			"- [ ] _viz_: ",
-			"- [ ] `shui`: ",
-			"- [ ] `lianjie.md`: ",
-			"- [ ] `hiring.md`: ",
-			"- [ ] `training.md`: ",
+			"* _meditate_: ",
+			"* _dance_: ",
+			"* _music_: ",
+			"* _viz_: ",
+			"* `shui`: ",
+			"* `lianjie.md`: ",
+			"* `hiring.md`: ",
+			"* `training.md`: ",
             "",
             "$1"
 		]
