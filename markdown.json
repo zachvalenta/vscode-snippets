@@ -18,6 +18,8 @@
 		"body": [
 			"# $CURRENT_YEAR.$CURRENT_MONTH.$CURRENT_DATE",
 			"",
+			"* toil: ",
+			"",
 			"- [ ] _meditate_: ",
 			"- [ ] _bed_: ",
 			"- [ ] `shui`: ",
