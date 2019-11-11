@@ -18,6 +18,8 @@
 		"body": [
 			"# $CURRENT_YEAR.$CURRENT_MONTH.$CURRENT_DATE",
 			"",
+            "> ",
+            "",
 			"- [ ] _sw_: ",
 			"- [ ] _dance_: `floor.md` `salsa.md` ",
 			"- [ ] _music_: `ableton.md` `composition.md` ",
@@ -101,6 +103,8 @@
 		"body": [
 			"# 🐛 highlights",
 			"",
+            "> ",
+            "",
 			"* _meditate_: ",
 			"* _bed_: ",
 			"* `shui`: ",
